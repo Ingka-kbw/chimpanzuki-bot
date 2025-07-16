@@ -1,5 +1,5 @@
 # 🐵🤺 Chimpanzuki the Ninja Scribe — CS50P Final Project
-#### Video Demo:  <URL HERE>
+#### Video Demo:  <https://www.youtube.com/watch?v=x-ZK_QQwB_U>
 
 #### Description:
 > 🧠 What is Chimpanzuki?
